@@ -29,6 +29,7 @@ How It Works
 - Saves the structured data into an Excel file
 - Sends a summary email with the extracted information
 
+**While running the code, add your gmail account and app password in the main function. And in the send_mail() function add mail accounnt of the one who you wish to send the data to. **
 
 Outcome
 - Faster and automated receipt processing
